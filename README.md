@@ -1,5 +1,5 @@
 # webpackapp-sample
-webpackを使ってes6とsassをビルドする簡単なサンプルである。
+webpackを使ってes6とsassをビルドする簡単なサンプルです。
 
 ## 必要な環境とバージョン
 * Nodejs

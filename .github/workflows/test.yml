@@ -1,0 +1,14 @@
+name: Test
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test-work:
+    runs-on: ubuntu-latest
+    steps:
+      - name: print date
+        run: |
+          echo hello $(date)
+      

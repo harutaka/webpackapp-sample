@@ -7,7 +7,7 @@ webpackを使ってes6とsassをビルドする簡単なサンプルです。
 
 ## 使い方
 `npm run build`を実行すると、srcディレクトリの中身を変換し、  
-成果物をdistディレクトリに配置する。
+成果物をdistディレクトリに配置します。
 
 `npm start`を実行すると、webpack-dev-serverの機能を使用し、  
 webpackでローカルサーバーを起動し、  

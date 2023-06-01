@@ -1,5 +1,5 @@
 # webpackapp-sample
-webpackを使ってes6とsassをビルドする簡単なサンプルである。
+webpackを使ってes6とsassをビルドする簡単なサンプルです。
 
 ## 必要な環境とバージョン
 * Nodejs
@@ -7,7 +7,7 @@ webpackを使ってes6とsassをビルドする簡単なサンプルである。
 
 ## 使い方
 `npm run build`を実行すると、srcディレクトリの中身を変換し、  
-成果物をdistディレクトリに配置する。
+成果物をdistディレクトリに配置します。
 
 `npm start`を実行すると、webpack-dev-serverの機能を使用し、  
 webpackでローカルサーバーを起動し、  
